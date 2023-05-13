@@ -5,7 +5,7 @@
 # https://stackoverflow.com/questions/6784084/how-to-pass-arguments-to-functions-by-the-click-of-button-in-pyqt
 # https://pythonprogramminglanguage.com/pyqt5-button/
 # https://doc.qt.io/qtforpython-5/PySide2/QtWidgets/QMessageBox.html
-# I also used the lectures and notes for references
+# I also used the lectures and notes for references  .
 import sys
 from PyQt5.QtGui import QFont
 from PyQt5.QtCore import Qt
