@@ -4,7 +4,7 @@
 # https://doc.qt.io/qtforpython-5/PySide2/QtGui/QFont.html
 # https://stackoverflow.com/questions/42100394/how-to-align-children-in-a-qhboxlayout-left-center-and-right
 # https://doc.qt.io/qtforpython-5/PySide2/QtWidgets/QMessageBox.html
-# I also used the lectures and notes for references
+# I also used the lectures and notes for references  .
 
 
 import sys
